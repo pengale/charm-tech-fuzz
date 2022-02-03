@@ -1,2 +1,2 @@
 # charm-tech-fuzz
-Repo to hold prototypes for the charm tech fuzzing tool
+Prototyping the Charm Tech team's fuzzing tool.
